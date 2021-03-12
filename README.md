@@ -1,6 +1,6 @@
 # React
 
-Este foi o primeiro app em react que eu fiz
+Este foi o primeiro app em react que eu fiz, Criei um site de uma escola, exibindo 3 cursos disponiveis 
 
 ## Ferrementas Usadas
 
